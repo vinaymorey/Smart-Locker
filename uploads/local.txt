@@ -1,0 +1,1 @@
+All local images will be stored here. Such as PAN card and images of user onboarding.
